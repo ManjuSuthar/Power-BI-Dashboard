@@ -1,1 +1,1 @@
-# Power-BI-Dashboard
+Amazon Prime Video Dashboard
